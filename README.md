@@ -1,5 +1,5 @@
 # 💫 About Me:
-Aspiring Cybersecurity Professional | <br>Bachelor of Science in Cybersecurity Student | <br>Passionate about Networking| <br>Learning Python
+Aspiring Cybersecurity Professional | <br> Google Cyber Security Professional Certificate | <br>Bachelor in Cybersecurity Student | <br>Passionate about Networking| <br>Learning Python 
 
 
 ## 🌐 Socials:
