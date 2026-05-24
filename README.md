@@ -76,12 +76,11 @@ me.say_hi()
 ## 🎯 TryHackMe Progress
 
 <p align="left">
-  <a href="https://tryhackme.com/p/YousafRahil" target="_blank">
+  <a href="[https://tryhackme.com/p/YousafRahil](https://tryhackme.com/p/Yousafrahil)" target="_blank">
     <img src="https://tryhackme-badges.s3.amazonaws.com/YousafRahil.png" alt="TryHackMe Badge" />
   </a>
 </p>
 
-> ⚠️ *Replace `YousafRahil` above with your actual TryHackMe username to display your badge*
 
 ---
 
