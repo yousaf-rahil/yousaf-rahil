@@ -75,7 +75,7 @@ me.say_hi()
 
 ## 🎯 TryHackMe Progress
 
-<p align="center">
+<p align="left">
   <a href="https://tryhackme.com/p/Yousafrahil">
     <img src="https://tryhackme-badges.s3.amazonaws.com/Yousafrahil.png" alt="TryHackMe" />
   </a>
@@ -95,16 +95,13 @@ me.say_hi()
 ---
 
 ## 📊 GitHub Stats
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=yousaf-rahil&theme=chartreuse-dark&hide_border=true&include_all_commits=true&count_private=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yousaf-rahil&theme=chartreuse-dark&hide_border=true" width="48%" />
+  <img src="https://streak-stats.demolab.com?user=yousaf-rahil&theme=chartreuse-dark&hide_border=true" width="48%" />
 </p>
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yousaf-rahil&theme=chartreuse-dark&hide_border=true&layout=compact" width="40%" />
 </p>
-
 ---
 
 ## 🌐 Connect With Me
