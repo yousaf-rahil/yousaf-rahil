@@ -94,15 +94,6 @@ me.say_hi()
 
 ---
 
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yousaf-rahil&theme=chartreuse-dark&hide_border=true&include_all_commits=true&count_private=true" width="48%" />
-  <img src="https://streak-stats.demolab.com?user=yousaf-rahil&theme=chartreuse-dark&hide_border=true" width="48%" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yousaf-rahil&theme=chartreuse-dark&hide_border=true&layout=compact" width="40%" />
-</p>
----
 
 ## 🌐 Connect With Me
 
