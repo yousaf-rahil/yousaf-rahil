@@ -117,16 +117,6 @@ Multi-threaded DNS and subdomain reconnaissance tool.
   <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=yousaf-rahil&layout=compact&theme=radical&hide_border=true" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yousaf-rahil&theme=radical&hide_border=true" alt="GitHub Streak" />
-</p>
-
-## 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/yousaf-rahil/yousaf-rahil/output/github-snake-dark.svg" alt="Contribution Snake" />
-</p>
-
 ---
 
 ## 🌐 Connect With Me
